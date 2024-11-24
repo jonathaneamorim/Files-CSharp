@@ -1,0 +1,14 @@
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\bin\Debug\net8.0\ProjetoManipulacaoCSV.exe
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\bin\Debug\net8.0\ProjetoManipulacaoCSV.deps.json
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\bin\Debug\net8.0\ProjetoManipulacaoCSV.runtimeconfig.json
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\bin\Debug\net8.0\ProjetoManipulacaoCSV.dll
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\bin\Debug\net8.0\ProjetoManipulacaoCSV.pdb
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.AssemblyInfoInputs.cache
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.AssemblyInfo.cs
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.csproj.CoreCompileInputs.cache
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.dll
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\refint\ProjetoManipulacaoCSV.dll
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.pdb
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ProjetoManipulacaoCSV.genruntimeconfig.cache
+C:\git\ProjetoManipulacaoCSV\ProjetoManipulacaoCSV\obj\Debug\net8.0\ref\ProjetoManipulacaoCSV.dll
